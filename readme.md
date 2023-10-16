@@ -1,4 +1,4 @@
-# Guide on Competitive Coding (1 Year)
+# Becoming a Codeforces Master in 1 Year
 
 ## First Month (Target: 1400) - Specialist
 
@@ -24,6 +24,25 @@
 
 - **Competitions on Codeforces:**
   - With a solid foundation in place, you can start participating in contests on platforms like Codeforces.
+
+## Next 6 Months (Target: 1900) - Candidate Master
+
+- **In-Depth Topic Study:**
+  - Focus on specific topics such as DSU (Disjoint Set Union), DP on trees, complex dynamic programming problems, pattern matching, DFS (Depth-First Search), BFS (Breadth-First Search), DP with DFS, segmented trees, and divide and conquer.
+
+- **Solve Quality Questions:**
+  - Solve 40-50 high-quality questions for each of these topics. This may be time-consuming but is essential for mastery.
+
+- **Efficient Problem Solving:**
+  - Allocate 30 minutes to solve a problem. If you can't solve it within this timeframe, consult the hint in the editorial (which essentially provides the solution).
+  - If the hint doesn't lead to a solution, take another 15 minutes to delve into the first paragraph of the editorial.
+  - Continue this process, investing additional 15-minute blocks into subsequent sections of the editorial.
+  - If you're still unable to solve the problem, consider reviewing the implementations of other coders and attempt to implement it on your own.
+
+- **Codeforces Contests:**
+  - Continue participating in Codeforces contests to apply your knowledge in real-time competitive scenarios.
+
+This comprehensive one-year plan will guide you from a specialist to a candidate master in competitive coding. Diligently work through these steps, and your skills will undoubtedly improve. Best of luck!
 
 
 # **What You Will Learn:**
